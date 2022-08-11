@@ -1,0 +1,14 @@
+{
+    "name": "quantik/php",
+    "description": "Creation d'un jeux en php (quantik)",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "authors": [
+        {
+            "name": "Massinissa Ait Hammi-Nadia Hariri",
+            "email": "massinissaait@yahoo.com"
+        }
+    ],
+    "require": {}
+}
